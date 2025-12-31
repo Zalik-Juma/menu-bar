@@ -1,6 +1,6 @@
 /*
 *Name:Zalik Barasa Juma
-*Reg No: J77-10594-2024m
+*Reg No: J77-10594-2024
 *Description: Program for a menu bar
 */
 import javax.swing.*;
@@ -55,4 +55,5 @@ public class SimpleMenuApp {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
+
 }
